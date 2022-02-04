@@ -1,0 +1,37 @@
+title: Lucifer's Wish List
+description: The Ultimate List
+
+title: Exotic / Kenetic / Scout
+
+: Dead Man's Tale :
+
+dimwishlist:item=3654674561&perks=1546637391,1561002382
+
+title: Exotic / Energy / Trace Rifle
+
+: Age's Scepter :
+
+dimwishlist:item=1833195496&perks=3164944314,1218765758
+
+title: Legendary / Energy / Scout
+
+: Eternal Blazon :
+
+dimwishlist:item=3514096004&perks=194952923,2420895100,247725512,1015611457
+dimwishlist:item=3514096004&perks=194952922,1885400500,247725512,2846385770
+dimwishlist:item=3514096004&perks=194952922,1087426260,247725512,1683379515
+
+title: Legendary / Energy / Sniper Rifle
+
+: Widow's Bite :
+
+dimwishlist:item=1271343896&perks=839105230,3142289711,3161816588,47981717
+dimwishlist:item=1271343896&perks=839105230,1087426260,280464955,706527188
+dimwishlist:item=1271343896&perks=839105230,2420895100,1556840489,1683379515
+
+title: Exotic / Kenetic / Auto Rifle
+
+: Cerberus + 1 :
+
+dimwishlist:item=1541131350&perks=3208839961,1332244541,1840239774,202670084,1289604610,2931483505,2302094943,1380383475
+
