@@ -8,11 +8,11 @@ PVP: Player Versus Player. [ Crucible, Rumble, Survival, Etc. ]
 DTD PVE: Day To Day Player Versus Environment Content. Can Be Used In Low End PVE Content. [ Normal Difficulty PVE: Story Missions, Public Events, Patrols, Vanguard Op, Etc. ]
 End Game PVE: Can Be Used In High Level PVE Content. [ Nightfalls, Legend Level Content Or Higher, Grandmaster Content. ]
 
-Tier 1: Potential God Roll. 5 Out Of 5. [ Keep. Lock it Now. Potential God Roll. ]
-Tier 2: Potential Exceptional Roll. 4 Out Of 5. [ Keep. It Is A Potentially Exceptional Alternative. ]
-Tier 3: Potential Great Roll. 3 Out Of 5. [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
-Tier 4: Potential Good Roll. 2 Out Of 5. [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
-Tier 5: Potential O.K. Roll. 1 Out Of 5. [ Temporary. Only Keep If You Don't Have Anything Better. ]
+Tier 1: Potential God Roll. [ Keep. Lock it Now. Potential God Roll. ]
+Tier 2: Potential Exceptional Roll. [ Keep. It Is A Potentially Exceptional Alternative. ]
+Tier 3: Potential Great Roll. [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+Tier 4: Potential Good Roll. [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+Tier 5: Potential O.K. Roll. [ Temporary. Only Keep If You Don't Have Anything Better. ]
 
 ::: The Master Exotic Wish List :::
  
@@ -20,12 +20,68 @@ Tier 5: Potential O.K. Roll. 1 Out Of 5. [ Temporary. Only Keep If You Don't Hav
  
 ; Dead Man's Tale ;
 
-//Test:
-dimwishlist:item=3654674561&perks=3661387068,4090651448,1392496348,1482024992,3230963543,679225683,1820235745,1168162263,1546637391,1354429876,4259401308,990298390#Note: This Is A Test
-
 //Tier 1:
+dimwishlist:item=3654674561&perks=3661387068,3230963543,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=3661387068,1968497646,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=3661387068,1561002382,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=3661387068,1885400500,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=3661387068,679225683,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+
+dimwishlist:item=3654674561&perks=3661387068,3230963543,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=3661387068,1968497646,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=3661387068,1561002382,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=3661387068,1885400500,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=3661387068,679225683,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+
+dimwishlist:item=3654674561&perks=4090651448,3230963543,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=4090651448,1968497646,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=4090651448,1561002382,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=4090651448,1885400500,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=4090651448,679225683,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+
+dimwishlist:item=3654674561&perks=4090651448,3230963543,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=4090651448,1968497646,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=4090651448,1561002382,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=4090651448,1885400500,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=4090651448,679225683,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+
+dimwishlist:item=3654674561&perks=1392496348,3230963543,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1392496348,1968497646,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1392496348,1561002382,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1392496348,1885400500,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1392496348,679225683,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+
+dimwishlist:item=3654674561&perks=1392496348,3230963543,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1392496348,1968497646,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1392496348,1561002382,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1392496348,1885400500,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1392496348,679225683,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+
+dimwishlist:item=3654674561&perks=1482024992,3230963543,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1482024992,1968497646,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1482024992,1561002382,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1482024992,1885400500,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1482024992,679225683,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+
+dimwishlist:item=3654674561&perks=1482024992,3230963543,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1482024992,1968497646,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1482024992,1561002382,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1482024992,1885400500,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
+dimwishlist:item=3654674561&perks=1482024992,679225683,1820235745,990298390#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. 
 
 //Tier 2:
+dimwishlist:item=3654674561&perks=3230963543,1820235745,4259401308#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1968497646,1820235745,4259401308#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1561002382,1820235745,4259401308#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1885400500,1820235745,4259401308#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=679225683,1820235745,4259401308#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+
+dimwishlist:item=3654674561&perks=3230963543,1820235745,990298390#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1968497646,1820235745,990298390#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1561002382,1820235745,990298390#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1885400500,1820235745,990298390#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=679225683,1820235745,990298390#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+
 
 //Tier 3:
 dimwishlist:item=3654674561&perks=3230963543,1820235745#Note: Tier 3: Subsistence - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
@@ -66,24 +122,24 @@ dimwishlist:item=3654674561&perks=3230963543,1546637391#Note: Tier 3: Vorpal - P
 dimwishlist:item=3654674561&perks=1885400500,1546637391#Note: Tier 3: Vorpal - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=679225683,1546637391#Note: Tier 3: Vorpal - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 
-dimwishlist:item=3654674561&perks=3230963543,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
-dimwishlist:item=3654674561&perks=1968497646,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
-dimwishlist:item=3654674561&perks=1561002382,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
-dimwishlist:item=3654674561&perks=1885400500,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
-dimwishlist:item=3654674561&perks=679225683,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=3230963543,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1968497646,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1561002382,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1885400500,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=679225683,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 
-dimwishlist:item=3654674561&perks=3142289711,1354429876#Note: Tier 3: Fourth Time's The Charm - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
-dimwishlist:item=3654674561&perks=3230963543,1354429876#Note: Tier 3: Fourth Time's The Charm - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
-dimwishlist:item=3654674561&perks=1885400500,1354429876#Note: Tier 3: Fourth Time's The Charm - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
-dimwishlist:item=3654674561&perks=679225683,1354429876#Note: Tier 3: Fourth Time's The Charm - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=3142289711,1354429876#Note: Tier 3: Fourth Time's The Charm - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=3230963543,1354429876#Note: Tier 3: Fourth Time's The Charm - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1885400500,1354429876#Note: Tier 3: Fourth Time's The Charm - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=679225683,1354429876#Note: Tier 3: Fourth Time's The Charm - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 
 //Tier 4:
-dimwishlist:item=3654674561&perks=1820235745#Note: Tier 4: Subsistence - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
-dimwishlist:item=3654674561&perks=1168162263#Note: Tier 4: Outlaw - PVE & PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
-dimwishlist:item=3654674561&perks=2450788523#Note: Tier 4: Killing Wind - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
-dimwishlist:item=3654674561&perks=588594999#Note: Tier 4: Moving Target - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
-dimwishlist:item=3654674561&perks=1546637391#Note: Tier 4: Vorpal - PVE & PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
-dimwishlist:item=3654674561&perks=1354429876#Note: Tier 4: Fourth Time's The Charm - PVE & PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1820235745#Note: Tier 4: Subsistence - PVE [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1168162263#Note: Tier 4: Outlaw - PVE & PVP [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=2450788523#Note: Tier 4: Killing Wind - PVP [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=588594999#Note: Tier 4: Moving Target - PVP [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1546637391#Note: Tier 4: Vorpal - PVE & PVP [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1354429876#Note: Tier 4: Fourth Time's The Charm - PVE & PVP [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 
 ::: The Master Legendary Wish List :::
 
