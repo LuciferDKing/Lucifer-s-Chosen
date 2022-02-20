@@ -120,6 +120,42 @@ dimwishlist:item=3654674561&perks=1482024992,1561002382,1820235745#Note: Tier 2:
 dimwishlist:item=3654674561&perks=1482024992,1885400500,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
 dimwishlist:item=3654674561&perks=1482024992,679225683,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
 
+dimwishlist:item=3654674561&perks=3230963543,1168162263,4259401308#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1968497646,1168162263,4259401308#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1561002382,1168162263,4259401308#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1885400500,1168162263,4259401308#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=679225683,1168162263,4259401308#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+
+dimwishlist:item=3654674561&perks=3230963543,1168162263,990298390#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1968497646,1168162263,990298390#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1561002382,1168162263,990298390#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1885400500,1168162263,990298390#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=679225683,1168162263,990298390#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+
+dimwishlist:item=3654674561&perks=3661387068,3230963543,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=3661387068,1968497646,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=3661387068,1561002382,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=3661387068,1885400500,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=3661387068,679225683,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+
+dimwishlist:item=3654674561&perks=4090651448,3230963543,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=4090651448,1968497646,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=4090651448,1561002382,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=4090651448,1885400500,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=4090651448,679225683,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+
+dimwishlist:item=3654674561&perks=392496348,3230963543,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=392496348,1968497646,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=392496348,1561002382,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=392496348,1885400500,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=392496348,679225683,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+
+dimwishlist:item=1482024992,3654674561&perks=3230963543,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=1482024992,3654674561&perks=1968497646,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=1482024992,3654674561&perks=1561002382,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=1482024992,3654674561&perks=1885400500,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=1482024992,3654674561&perks=679225683,1168162263#Note: Tier 2: Outlaw - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+
 //Tier 3:
 dimwishlist:item=3654674561&perks=3230963543,1820235745#Note: Tier 3: Subsistence - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=1968497646,1820235745#Note: Tier 3: Subsistence - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
@@ -177,14 +213,17 @@ dimwishlist:item=3654674561&perks=2450788523#Note: Tier 4: Killing Wind - PVP [ 
 dimwishlist:item=3654674561&perks=588594999#Note: Tier 4: Moving Target - PVP [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=1546637391#Note: Tier 4: Vorpal - PVE & PVP [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=1354429876#Note: Tier 4: Fourth Time's The Charm - PVE & PVP [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1968497646#Note: Tier 4: Armor-Piercing Rounds - PVE [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1561002382#Note: Tier 4: High Caliber Rounds - PVE [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1885400500#Note: Tier 4: Ricochet Rounds - PVE [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 
 //Light.GG Top 6 Perk Combos.
-dimwishlist:item=3654674561&perks=1546637391,1067908860#Note: Light.GG Top Perk Combos: [ The Top 6 Perk Combos Acording To Light.GG. ]
-dimwishlist:item=3654674561&perks=1546637391,990298390#Note: Light.GG Top Perk Combos: [ The Top 6 Perk Combos Acording To Light.GG. ]
-dimwishlist:item=3654674561&perks=1546637391,4259401308#Note: Light.GG Top Perk Combos: [ The Top 6 Perk Combos Acording To Light.GG. ]
-dimwishlist:item=3654674561&perks=1546637391,3465198467#Note: Light.GG Top Perk Combos: [ The Top 6 Perk Combos Acording To Light.GG. ]
-dimwishlist:item=3654674561&perks=1168162263,3465198467#Note: Light.GG Top Perk Combos: [ The Top 6 Perk Combos Acording To Light.GG. ]
-dimwishlist:item=3654674561&perks=1168162263,990298390#Note: Light.GG Top Perk Combos: [ The Top 6 Perk Combos Acording To Light.GG. ]
+dimwishlist:item=3654674561&perks=1546637391,1067908860#Note: Light.GG Top Perk Combos: [ #1: One Of The Top 6 [ 2 Perk Combos ] Acording To Light.GG. ]
+dimwishlist:item=3654674561&perks=1546637391,990298390#Note: Light.GG Top Perk Combos: [ #2: One Of The Top 6 [ 2 Perk Combos ] Acording To Light.GG. ]
+dimwishlist:item=3654674561&perks=1546637391,4259401308#Note: Light.GG Top Perk Combos: [ #3: One Of The Top 6 [ 2 Perk Combos ] Acording To Light.GG. ]
+dimwishlist:item=3654674561&perks=1546637391,3465198467#Note: Light.GG Top Perk Combos: [ 4: One Of The Top 6 [ 2 Perk Combos ] Acording To Light.GG. ]
+dimwishlist:item=3654674561&perks=1168162263,3465198467#Note: Light.GG Top Perk Combos: [ #5: One Of The Top 6 [ 2 Perk Combos ] Acording To Light.GG. ]
+dimwishlist:item=3654674561&perks=1168162263,990298390#Note: Light.GG Top Perk Combos: [ #6: One Of The Top 6 [ 2 Perk Combos ] Acording To Light.GG. ]
 
 //Curated Roll:
 
