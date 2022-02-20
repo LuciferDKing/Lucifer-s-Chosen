@@ -14,11 +14,25 @@ Tier 3: Potential Great Roll. [ Potentially Great Roll. Temporary. Only Keep If 
 Tier 4: Potential Good Roll. [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 Tier 5: Potential O.K. Roll. [ Temporary. Only Keep If You Don't Have Anything Better. ]
 
+Curated Roll: This Weapon Perk Combination Is Displayed In The Collections Tab. Can Potentially Drop As A Curated Roll Through A Quest, Another Similar Source, From The Monument Of Lost Light, Or Collections Tab.
+
+Light.GG Most Popular: The Most Popular Perk Combination Acording To Light.GG.
+Light.GG Top Perk Combos: The Top 6 Perk Combos Acording To Light.GG.
+
 ::: The Master Exotic Wish List :::
  
-:: Title: Exotic / Kinetic / Scout ::
- 
+:: Exotic / Kinetic / Scout ::
+
 ; Dead Man's Tale ;
+"Long, short, they all end the same way." —Katabasis
+
+- Uses PRIMARY ammo.
+- Introduced in Season 13.
+- Drops From Presage Exotic Quest.
+- No Power Cap.
+
+//Light.GG Most Popular.
+dimwishlist:item=3654674561&perks=3250034553,1561002382,1546637391,1067908860#Note: Light.GG Most Popular: [ The Most Popular Perk Combination Acording To Light.GG. ]
 
 //Tier 1:
 dimwishlist:item=3654674561&perks=3661387068,3230963543,1820235745,4259401308#Note: Tier 1: Subsistence - PVE [ Keep. Lock it Now. Potential God Roll. ]
@@ -82,6 +96,29 @@ dimwishlist:item=3654674561&perks=1561002382,1820235745,990298390#Note: Tier 2: 
 dimwishlist:item=3654674561&perks=1885400500,1820235745,990298390#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
 dimwishlist:item=3654674561&perks=679225683,1820235745,990298390#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
 
+dimwishlist:item=3654674561&perks=3661387068,3230963543,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=3661387068,1968497646,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=3661387068,1561002382,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=3661387068,1885400500,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=3661387068,679225683,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+
+dimwishlist:item=3654674561&perks=4090651448,3230963543,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=4090651448,1968497646,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=4090651448,1561002382,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=4090651448,1885400500,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=4090651448,679225683,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+
+dimwishlist:item=3654674561&perks=1392496348,3230963543,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1392496348,1968497646,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1392496348,1561002382,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1392496348,1885400500,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1392496348,679225683,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+
+dimwishlist:item=3654674561&perks=1482024992,3230963543,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1482024992,1968497646,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1482024992,1561002382,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1482024992,1885400500,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
+dimwishlist:item=3654674561&perks=1482024992,679225683,1820235745#Note: Tier 2: Subsistence - PVE [ Keep. It Is A Potentially Exceptional Alternative. ]
 
 //Tier 3:
 dimwishlist:item=3654674561&perks=3230963543,1820235745#Note: Tier 3: Subsistence - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
@@ -140,6 +177,18 @@ dimwishlist:item=3654674561&perks=2450788523#Note: Tier 4: Killing Wind - PVP [ 
 dimwishlist:item=3654674561&perks=588594999#Note: Tier 4: Moving Target - PVP [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=1546637391#Note: Tier 4: Vorpal - PVE & PVP [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=1354429876#Note: Tier 4: Fourth Time's The Charm - PVE & PVP [ Potentially Good Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+
+//Light.GG Top 6 Perk Combos.
+dimwishlist:item=3654674561&perks=1546637391,1067908860#Note: Light.GG Top Perk Combos: [ The Top 6 Perk Combos Acording To Light.GG. ]
+dimwishlist:item=3654674561&perks=1546637391,990298390#Note: Light.GG Top Perk Combos: [ The Top 6 Perk Combos Acording To Light.GG. ]
+dimwishlist:item=3654674561&perks=1546637391,4259401308#Note: Light.GG Top Perk Combos: [ The Top 6 Perk Combos Acording To Light.GG. ]
+dimwishlist:item=3654674561&perks=1546637391,3465198467#Note: Light.GG Top Perk Combos: [ The Top 6 Perk Combos Acording To Light.GG. ]
+dimwishlist:item=3654674561&perks=1168162263,3465198467#Note: Light.GG Top Perk Combos: [ The Top 6 Perk Combos Acording To Light.GG. ]
+dimwishlist:item=3654674561&perks=1168162263,990298390#Note: Light.GG Top Perk Combos: [ The Top 6 Perk Combos Acording To Light.GG. ]
+
+//Curated Roll:
+
+dimwishlist:item=3654674561&perks=1840239774,3142289711,712324018,990298390#Note: Curatedd Roll: This Weapon Perk Combination Is Displayed In The Collections Tab.
 
 ::: The Master Legendary Wish List :::
 
