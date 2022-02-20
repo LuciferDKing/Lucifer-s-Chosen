@@ -16,11 +16,11 @@ Tier 5: Potential O.K. Roll. 1 Out Of 5. [ Temporary. Only Keep If You Don't Hav
 
 ::: The Master Exotic Wish List :::
  
-- Title: Exotic / Kinetic / Scout -
+:: Title: Exotic / Kinetic / Scout ::
  
 ; Dead Man's Tale ;
 
-dimwishlist:item=3654674561&perks=1546637391#Note: Tier 5: Vorpal - PVE & PVP
+dimwishlist:item=3654674561&perks=1546637391#Note: Tier 5: Vorpal - PVE & PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
 
 ::: The Master Legendary Wish List :::
 
