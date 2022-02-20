@@ -20,6 +20,13 @@ Tier 5: Potential O.K. Roll. 1 Out Of 5. [ Temporary. Only Keep If You Don't Hav
  
 ; Dead Man's Tale ;
 
+//Test:
+dimwishlist:item=3654674561&perks=3661387068,4090651448,1392496348,1482024992,3230963543,679225683,1820235745,1168162263,1546637391,1354429876,4259401308,990298390#Note: This Is A Test
+
+//Tier 1:
+
+//Tier 2:
+
 //Tier 3:
 dimwishlist:item=3654674561&perks=3230963543,1820235745#Note: Tier 3: Subsistence - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=1968497646,1820235745#Note: Tier 3: Subsistence - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
@@ -38,12 +45,44 @@ dimwishlist:item=3654674561&perks=3230963543,1168162263#Note: Tier 3: Outlaw - P
 dimwishlist:item=3654674561&perks=1885400500,1168162263#Note: Tier 3: Outlaw - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=679225683,1168162263#Note: Tier 3: Outlaw - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
 
+dimwishlist:item=3654674561&perks=3142289711,2450788523#Note: Tier 3: Killing Wind - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=3230963543,2450788523#Note: Tier 3: Killing Wind - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=3230963543,2450788523#Note: Tier 3: Killing Wind - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=3230963543,2450788523#Note: Tier 3: Killing Wind - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+
+dimwishlist:item=3654674561&perks=3142289711,588594999#Note: Tier 3: Moving Target - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=3230963543,588594999#Note: Tier 3: Moving Target - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1885400500,588594999#Note: Tier 3: Moving Target - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=679225683,588594999#Note: Tier 3: Moving Target - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+
+dimwishlist:item=3654674561&perks=3230963543,1546637391#Note: Tier 3: Vorpal - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1968497646,1546637391#Note: Tier 3: Vorpal - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1561002382,1546637391#Note: Tier 3: Vorpal - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1885400500,1546637391#Note: Tier 3: Vorpal - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=679225683,1546637391#Note: Tier 3: Vorpal - PVE [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+
+dimwishlist:item=3654674561&perks=3142289711,1546637391#Note: Tier 3: Vorpal - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=3230963543,1546637391#Note: Tier 3: Vorpal - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1885400500,1546637391#Note: Tier 3: Vorpal - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=679225683,1546637391#Note: Tier 3: Vorpal - PVP [ Potentially Great Roll. Temporary. Only Keep If You Don't Have Anything Better. ]
+
+dimwishlist:item=3654674561&perks=3230963543,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1968497646,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1561002382,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1885400500,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=679225683,1354429876#Note: Tier 3: Fourth Time's The Charm - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
+
+dimwishlist:item=3654674561&perks=3142289711,1354429876#Note: Tier 3: Fourth Time's The Charm - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=3230963543,1354429876#Note: Tier 3: Fourth Time's The Charm - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1885400500,1354429876#Note: Tier 3: Fourth Time's The Charm - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=679225683,1354429876#Note: Tier 3: Fourth Time's The Charm - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
+
 //Tier 4:
 dimwishlist:item=3654674561&perks=1820235745#Note: Tier 4: Subsistence - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=1168162263#Note: Tier 4: Outlaw - PVE & PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=2450788523#Note: Tier 4: Killing Wind - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=588594999#Note: Tier 4: Moving Target - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
-dimwishlist:item=3654674561&perks=1546637391#Note: Tier 4: Vorpal - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1546637391#Note: Tier 4: Vorpal - PVE & PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=1354429876#Note: Tier 4: Fourth Time's The Charm - PVE & PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
 
 ::: The Master Legendary Wish List :::
