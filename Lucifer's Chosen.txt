@@ -25,7 +25,12 @@ dimwishlist:item=3654674561&perks=1885400500,1546637391#Note: Tier 4: Vorpal - P
 dimwishlist:item=3654674561&perks=1561002382,1546637391#Note: Tier 4: Vorpal - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
 
 //Tier 5:
+dimwishlist:item=3654674561&perks=1820235745#Note: Tier 5: Subsistence - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1168162263#Note: Tier 5: Outlaw - PVE & PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=2450788523#Note: Tier 5: Killing Wind - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=588594999#Note: Tier 5: Moving Target - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=1546637391#Note: Tier 5: Vorpal - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
+dimwishlist:item=3654674561&perks=1354429876#Note: Tier 5: Fourth Time's The Charm - PVE & PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
 
 ::: The Master Legendary Wish List :::
 
