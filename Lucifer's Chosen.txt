@@ -20,12 +20,12 @@ Tier 5: Potential O.K. Roll. 1 Out Of 5. [ Temporary. Only Keep If You Don't Hav
  
 ; Dead Man's Tale ;
 
-//Tier 5:
-dimwishlist:item=3654674561&perks=1546637391#Note: Tier 5: Vorpal - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
-
 //Tier 4:
 dimwishlist:item=3654674561&perks=1885400500,1546637391#Note: Tier 4: Vorpal - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
 dimwishlist:item=3654674561&perks=1561002382,1546637391#Note: Tier 4: Vorpal - PVE [ Temporary. Only Keep If You Don't Have Anything Better. ]
+
+//Tier 5:
+dimwishlist:item=3654674561&perks=1546637391#Note: Tier 5: Vorpal - PVP [ Temporary. Only Keep If You Don't Have Anything Better. ]
 
 ::: The Master Legendary Wish List :::
 
